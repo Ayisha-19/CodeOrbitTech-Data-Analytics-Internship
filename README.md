@@ -14,14 +14,14 @@ Dataset: cafe sales (8,577 cleaned transactions)
 ## KPI Report
  **KPI**                        **Value** 
 
- Total Revenue            | 76,695 
- Total Transactions       | 8,577 
- Average Order Value      | 8.94 
- Best-selling Item        | Salad (16,550) 
- Lowest-selling Item      | Cookie (3,067) 
- Best Month               | October 2023 (6,743) 
- Lowest Month             | February 2023 (5,943) 
- Top Payment Method       | Cash (17,708.5) 
+ Total Revenue             76,695 |
+ Total Transactions        8,577 |
+ Average Order Value       8.94 |
+ Best-selling Item         Salad (16,550) | 
+ Lowest-selling Item       Cookie (3,067) |
+ Best Month                October 2023 (6,743) |
+ Lowest Month              February 2023 (5,943) |
+ Top Payment Method        Cash (17,708.5) |
 
 ## Insights
 - Salad earns the most revenue and Cookie the least.
